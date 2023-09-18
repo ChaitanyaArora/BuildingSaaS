@@ -1,0 +1,10 @@
+Frontend Framework : React:
+Real-Time Collaboration:  WebSocket or WebRTC(Depending on the specific real-time collaboration needs)
+
+CAD Visualization:  Three.js(Three.js is a JavaScript library for 3D graphics)
+
+Authentication: Firebase Authentication( Firebase offers a simple and secure way to implement user authentication)
+
+State Management: Redux(If your CAD web app is complex and involves a lot of state management, Redux can help you manage application state efficiently)
+
+UI/UX: Material-UI (These UI component libraries can help you build a modern and user-friendly interface for your CAD app)
